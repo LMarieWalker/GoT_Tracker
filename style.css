@@ -1,0 +1,209 @@
+
+body {
+  background-color: grey;
+}
+
+.firstBodyDiv {
+  background-color: grey;
+  margin: 0;
+  padding: 30px;
+}
+
+.bodyDiv {
+  /*margin: 30px 30px 0px 30px;*/
+  /*padding: 100px;*/
+  /*border: 1px solid lightgrey;*/
+  background-color: #445466;
+}
+
+#nav {
+  background-color: #3B3941;
+}
+
+.brand-logo {
+  margin-left: 20px;
+}
+
+
+.mainContainer {
+  margin: 0 30px 30px 30px;
+  /*border: 1px solid lightgrey;*/
+  display: flex;
+  flex-direction: row;
+
+}
+
+.two-column-row {
+  width: 50%;
+  margin: auto;
+}
+
+.content {
+  margin: 10px;
+  /*border: 1px solid lightgrey;*/
+  width: 70%;
+}
+
+h1 {
+  /*border: 1px solid lightgrey;*/
+  width: 100%;
+  margin: 5px auto 10px auto;
+  text-align: center;
+}
+
+#map {
+  /*border: 1px solid lightgrey;*/
+  width: 80%;
+  margin: 5px auto 10px auto;
+  text-align: center;
+  padding: 20px;
+  border: 10px solid #3B3941;
+  background-color: black;
+
+}
+
+#indexImg {
+  width: 100%;
+}
+
+
+.options {
+  margin: 10px;
+  /*border: 1px solid lightgrey;*/
+  width: 30%;
+}
+
+label {
+  margin: 5px auto 0 auto;
+}
+
+.selectOptions {
+  margin: 10px;
+  padding: 10px;
+  /*border: 1px solid lightgrey;*/
+  display: flex;
+  flex-direction: column;
+}
+
+#mainContainer-charPage {
+  background-color: #445466;
+}
+
+.optionCards {
+  margin: 1px auto 10px auto;
+  /*border: 1px solid lightgrey;*/
+  height: 100%;
+  width: 150px;
+}
+
+.optionsInfo {
+  /*border: 1px solid grey;*/
+  margin: 5px;
+  padding: 10px;
+  height: 400px;
+  background-color: black;
+}
+
+.optionsInfoIn {
+  border: 1px solid grey;
+  margin: 10px;
+  padding: 10px;
+  height: 355px;
+  overflow: auto;
+  background-color: white;
+  box-shadow: 1px 1px 20px 1px white;
+}
+
+#character {
+  margin-bottom: 20px;
+}
+
+#season {
+  margin-bottom: 20px;
+}
+
+#episodes {
+  margin-bottom: 20px;
+}
+
+#charName {
+  /*border: 1px solid lightgrey;*/
+  font-weight: bolder;
+}
+
+.characterInfo {
+  /*border: 1px solid lightgrey;*/
+}
+
+.profile {
+  /*border: 1px solid lightgrey;*/
+  margin: 10px;
+}
+
+#profile {
+  /*border: 1px solid lightgrey;*/
+  margin: 10px;
+}
+
+#charLocations {
+  /*border: 1px solid lightgrey;*/
+  margin: 10px 10px 2px 10px;
+}
+
+#card-panel-locations {
+  background-color: #3B3941;
+  height: 150px;
+  overflow: auto;
+}
+
+#card-panel-profile {
+  background-color: #3B3941;
+  height: 260px;
+  overflow: auto;
+}
+
+.grey-text {
+  font-size: 25px;
+}
+
+.charLocations {
+  /*border: 1px solid lightgrey;*/
+  margin: 10px;
+}
+
+.locations {
+  /*border: 1px solid lightgrey;*/
+  margin: 10px 10px 2px 10px;
+}
+
+#page-footer {
+  background-color: #3B3941;
+}
+
+#copyrightLine {
+  padding-bottom: 10px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+#mugShot {
+  display: flex;
+  height: 85%;
+}
+
+#formContainerPage2 {
+  width: 100%;
+}
+
+#optionCardsSubmitPage2 {
+  width: 100%;
+}
+
+
+#charImg {
+  /*width: 250px;*/
+  height: 100%;
+  border: 5px solid black;
+  margin: auto;
+  width: 100%;
+}
